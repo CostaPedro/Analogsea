@@ -60,7 +60,7 @@ form {
 }
 
 .analog-form input:invalid {
-  border: 2px red solid;
+  border: 2px solid;
 
 }
 
