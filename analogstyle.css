@@ -52,6 +52,7 @@ form {
   margin-bottom: 15px;
   padding: 15px;
   border: 2px solid #E7EAE5;
+  border-radius: 3px;
 }
 
 .analog-form input::placeholder {
@@ -60,7 +61,8 @@ form {
 }
 
 .analog-form input:invalid {
-  border: 2px solid;
+  border: 2px solid #9DA895;
+  border-radius: 3px;
 
 }
 
